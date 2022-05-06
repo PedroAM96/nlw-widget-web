@@ -1,4 +1,4 @@
-import { Widget } from './components/Widget'
+import { Widget } from './components/Widget';
 
 export function App() {
   return (
@@ -23,21 +23,21 @@ export function App() {
         </div>
       </div>
       <section>
-        <main className='mobile-main md:mx-10 md:my-10' >
-          <div className='md:mx-auto md:w-[70vw] bg-zinc-800 h-24  rounded-md' >
+        <main className='mobile-main md:mx-10 md:my-10'>
+          <div className='md:mx-auto md:w-[70vw] bg-zinc-800 h-24  rounded-md'>
             <p className='text-zinc-400 p-8'>
-              Experimente enviar um feedback de um bug na aplicação 🐛 
+              Experimente enviar um feedback de um bug na aplicação 🐛
             </p>
           </div>
-          <div className='mobile-cols grid md:grid-cols-3 md:gap-6 grid-flow-row-dense w-[70vw] mx-auto my-6' >
-            <div className='bg-zinc-800 h-48 rounded-md' ></div>
-            <div className='bg-zinc-800 h-48 md:col-span-2 rounded-md' ></div>
-            <div className='bg-zinc-800 h-48 md:col-span-2 rounded-md' ></div>
-            <div className='bg-zinc-800 h-48 rounded-md' ></div>
+          <div className='mobile-cols grid md:grid-cols-3 md:gap-6 grid-flow-row-dense w-[70vw] mx-auto my-6'>
+            <div className='bg-zinc-800 h-48 rounded-md'></div>
+            <div className='bg-zinc-800 h-48 md:col-span-2 rounded-md'></div>
+            <div className='bg-zinc-800 h-48 md:col-span-2 rounded-md'></div>
+            <div className='bg-zinc-800 h-48 rounded-md'></div>
           </div>
         </main>
       </section>
       <Widget />
     </>
-  )
+  );
 }
