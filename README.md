@@ -6,7 +6,7 @@
 
 ## **Description**
 
-Widget developed with _React_ to collect user feedback while browsing a platform or website.
+A study project developed during the NLW organized by [Rocketseat](https://www.rocketseat.com.br/). A widget design with _React_ and _Vite_ to collect user feedback while browsing a platform or website.
 
 ## **Install**
 
@@ -30,3 +30,7 @@ $ npm run dev
 ```
 
 - In the feedback button, set the type and leave a comment about the problem that happened to you
+
+## **Credits**
+
+A study project developed during the NLW organized by [Rocketseat](https://www.rocketseat.com.br/)
