@@ -11,7 +11,7 @@ A study project developed during the NLW organized by [Rocketseat](https://www.r
 ## **Install**
 
 ```bash
-# primeiros passos
+# first steps
 $ npm install
 ```
 
@@ -33,4 +33,4 @@ $ npm run dev
 
 ## **Credits**
 
-A study project developed during the NLW organized by [Rocketseat](https://www.rocketseat.com.br/)
+[Rocketseat](https://www.rocketseat.com.br/)
