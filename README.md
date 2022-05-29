@@ -6,7 +6,7 @@
 
 ## **Description**
 
-You can see [working here](https://nlw-widget-7zql7pa74-pedroam96.vercel.app/)!
+You can see [working here](https://nlw-widget-web-git-main-pedroam96.vercel.app/)!
 
 A study project developed during the NLW organized by [Rocketseat](https://www.rocketseat.com.br/). A widget design with _React_ and _Vite_ to collect user feedback while browsing a platform or website.
 
